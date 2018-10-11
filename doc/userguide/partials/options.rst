@@ -262,3 +262,7 @@
 .. option:: --simulate-ips
 
    Simulate IPS mode when running in a non-IPS mode.
+
+.. option:: --ipc=<comma delimited list of servers>
+
+   Feed packets to suricata via multiple IPC connections.
